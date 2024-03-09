@@ -64,24 +64,5 @@ main{
     font-size: 1.5rem;
 }
 
-@media screen and (max-width:600px) {
-    main{
-        padding: 0px 0px;
-    }
-    .whatsup1{
-        width: 80%;
-    }
-    .contact-con{
-        display: block;
-        width: 100%;
-    }
-    h3{
-        font-size: 16px;
-    }
-    p{
-        font-size: 12px !important;
-    }
-}
-
 
 
